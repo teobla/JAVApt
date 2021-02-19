@@ -9,7 +9,7 @@ public class TestPacket {
 	public static void main(String[] args) {
 
 		// -------------------------------------------------
-		// Ajouter / Modifier / Supprimer des Ã©lÃ©ments
+		// Ajouter / Modifier / Supprimer des éléments
 		OrdiPortable jacques = new OrdiPortable("192.168.1.1", "MAC DE JACQUES", "182.168.1.254","Ordi Portable de Jacques"); //on crée le PC de jacques
 		OrdiFixe michelle = new OrdiFixe("192.168.1.2", "MAC DE MICHELLE", "182.168.1.254","Ordi Fixe de Michelle"); //on crée l'ordi de michelle
 
